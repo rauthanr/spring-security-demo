@@ -1,0 +1,6 @@
+com\ravio\springsecurity\demo\config\DemoAppConfig.class
+com\ravio\springsecurity\demo\controller\DemoController.class
+com\ravio\springsecurity\demo\controller\LoginController.class
+com\ravio\springsecurity\demo\config\MySpringMvcDispatcherServletInitializer.class
+com\ravio\springsecurity\demo\config\DemoSecurityConfig.class
+com\ravio\springsecurity\demo\config\SecurityWebApplicationInitializer.class
